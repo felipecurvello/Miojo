@@ -33,6 +33,7 @@ if (menorTempo==2^63-1):
     print("Possivelmente, não existe solução para o problema")
 else:
     print("Menor tempo de preparo: ")
-    print(menorTempo)
+    print(menorTempo) 
+    
              
     
